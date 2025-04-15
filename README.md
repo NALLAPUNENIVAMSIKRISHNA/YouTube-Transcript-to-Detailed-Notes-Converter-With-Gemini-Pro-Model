@@ -1,0 +1,1 @@
+# YouTube-Transcript-to-Detailed-Notes-Converter-With-Gemini-Pro-Model
