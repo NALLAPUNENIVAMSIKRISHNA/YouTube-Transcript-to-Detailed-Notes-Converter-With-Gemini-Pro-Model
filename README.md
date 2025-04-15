@@ -1,5 +1,7 @@
 # YouTube Transcript to Detailed Notes Converter
 
+Demo Video Link :- https://drive.google.com/file/d/1sKQNBH17__y13iRYVCCwmGZjPuvquQvj/view?usp=sharing
+
 This project is a web application that helps users convert YouTube video transcripts into easy-to-read, bullet-point summaries using Google Gemini AI. It's especially useful for students, professionals, or anyone who wants to quickly understand a video without watching the entire content.
 
 ---
